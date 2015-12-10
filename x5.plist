@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://10.72.86.123:8886/telecom/icon2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>http://10.72.86.123:8886/telecom/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
