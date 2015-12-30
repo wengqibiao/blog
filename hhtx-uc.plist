@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ims.10044.cn:8080/telecom/appver/AnyCall_0.2.20.ipa</string>
+					<string>http://ims.10044.cn:8080/telecom/appver/AnyCall_0.2.21.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.hna.hna170.uc</string>
 				<key>bundle-version</key>
-				<string>0.2.20</string>
+				<string>0.2.21</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
